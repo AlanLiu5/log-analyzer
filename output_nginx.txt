@@ -1,0 +1,27 @@
+total_requests = 6
+count_404 = 2
+count_500 = 1
+
+Top Pages:
+1) /api -> 2
+2) /home -> 2
+3) /missing -> 2
+
+Errors:
+error_total = 3
+count_404 = 2
+count_500 = 1
+
+Top Error Pages:
+1) /missing -> 2
+2) /api -> 1
+
+Top Users (IP):
+1) 1.2.3.4 -> 2
+2) 2.2.2.2 -> 2
+3) 3.3.3.3 -> 1
+
+Top Hours:
+1) 10 -> 3
+2) 11 -> 2
+3) 12 -> 1
