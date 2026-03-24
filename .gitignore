@@ -1,0 +1,9 @@
+.DS_Store
+.idea/
+.venv/
+__pycache__/
+*.pyc
+access_*_test*.log
+output*.txt
+result*.txt
+report*.txt
